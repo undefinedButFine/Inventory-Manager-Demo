@@ -15,5 +15,7 @@ while True:
     match user_choice:
         case 1:
             itemSearch()
+        case 2:
+            itemAdd()
         case 5:
             exit(0)

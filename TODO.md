@@ -9,4 +9,5 @@
 
 ### Completed ✓
 - [x] Search function
+- [x] Add Function
 - [x] Searchable txt file for menu options
