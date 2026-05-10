@@ -1,6 +1,6 @@
 ### TODO  
 - [ ] Menu looping for user choices  
-    - [ ] Selection/Add/Remove/Update/Exit 
+    - [ ] Remove/Update
 - [ ] Default prices
 - [ ] Exception Handling
 
@@ -10,7 +10,5 @@
 - [ ] Refactor item removal and prevent non-existent items from printing delete message
 
 ### Completed ✓
-- [x] Search function
-- [x] Add Function
-- [x] Remove function
+- [x] Search, Add, and Remove
 - [x] Searchable txt file for menu options
